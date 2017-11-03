@@ -12,6 +12,7 @@ development:
   adapter: postgresql
   encoding: unicode
   host: ec2-107-20-188-239.compute-1.amazonaws.com
+  port: 5432
   database: dbjj1qchh5iivo
   pool: 5
   username: pgsajqxobyuony # <== Change me!!
